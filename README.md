@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hey there 👋, I'm Karan Khanna 👨‍💻
+# Hey there 👋, I'm Karan Khanna 👨‍💻
 A Software Engineer from Agra, India.
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;
