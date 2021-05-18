@@ -6,7 +6,7 @@ A Software Engineer from Agra, India.
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)][mail]
 
-![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karankhanna02&theme=react&show_icons=true)
+![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karanbits&theme=react&show_icons=true)
 
 💻 My workspace
 
@@ -23,7 +23,7 @@ A Software Engineer from Agra, India.
 [linkedin]: https://www.linkedin.com/in/karan-khanna-807644156/
 [mail]: mailto:khanna2karan@gmail.com
 
-[![Visits Badge](https://badges.pufler.dev/visits/karankhanna02/karankhanna02)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/karanbits/karanbits)](https://badges.pufler.dev)
 </div>
 
 
