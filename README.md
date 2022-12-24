@@ -23,7 +23,6 @@ A Software Engineer from Agra, India.
 [linkedin]: https://www.linkedin.com/in/karan-khanna-807644156/
 [mail]: mailto:khanna2karan@gmail.com
 
-[![Visits Badge](https://badges.pufler.dev/visits/karanbits/karanbits)](https://badges.pufler.dev)
 </div>
 
 
