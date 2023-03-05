@@ -27,7 +27,7 @@ A Software Engineer from Agra, India.
 
 
 <!--
-**karankhanna02/karankhanna02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**green-pen/green-pen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
