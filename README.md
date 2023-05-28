@@ -6,7 +6,7 @@ A Software Engineer from Agra, India.
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]&nbsp;
 [![Gmail Badge](https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)][mail]
 
-![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=green-pen&theme=react&show_icons=true)
+![Karan's GitHub stats](https://github-readme-stats.vercel.app/api?username=karan-bits&theme=react&show_icons=true)
 
 💻 My workspace
 
